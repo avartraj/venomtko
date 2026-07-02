@@ -4,7 +4,7 @@ Part of the **Venom recon toolkit**. A single-file `asyncio` Python pipeline tha
 
 > **Detection only** — never registers, claims, or modifies any resource.
 > Run **only** against assets you are explicitly authorized to test.
-
+<img width="2752" height="1536" alt="Gemini_Generated_Image_5o83t25o83t25o83" src="https://github.com/user-attachments/assets/ece5d324-ec91-4396-8c15-e809fe5a808d" />
 ---
 
 ## Features
