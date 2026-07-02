@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+takeover_report.json
+takeover_report.csv
+.env
+domain.txt
+PROMPT.md
